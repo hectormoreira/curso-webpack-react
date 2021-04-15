@@ -1,6 +1,8 @@
 # React + Webpack
 Proyecto React + Webpack notas del [Curso de Webpack en Platzi](https://platzi.com/clases/webpack/)
 
+## Proyecto en Netlify
+[react-webpack](https://react-webpack-hectormoreira.netlify.app/)
 
 
 ## Dependencias
